@@ -7,6 +7,7 @@
 3. Make the first test fail and look at the output
 4. After making the first test fail do you see the output of the second test?
 
+
 #### Calculate total amount
 
 1. Write a function that takes two input `amount` and `taxRate` and returns the total amount by `amount + (amount * taxRate) `
